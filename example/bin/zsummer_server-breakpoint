@@ -1,5 +1,8 @@
-break /root/git/dodong471520/zsummer/example/zsummer_server/main.cpp:72
-break /root/git/dodong471520/zsummer/example/zsummer_server/Process.cpp:69
-break /root/git/dodong471520/zsummer/example/zsummer_server/Schedule.cpp:58
 break /root/git/dodong471520/zsummer/network/epoll/epoll.cpp:132
-break /root/git/dodong471520/zsummer/network/epoll/epoll.cpp:212
+break /root/git/dodong471520/zsummer/network/epoll/epoll.cpp:168
+break /root/git/dodong471520/zsummer/network/epoll/epoll.cpp:290
+break /root/git/dodong471520/zsummer/network/epoll/epoll.cpp:257
+break /root/git/dodong471520/zsummer/network/epoll/epoll.cpp:262
+break /root/git/dodong471520/zsummer/network/epoll/tcpsocket.cpp:244
+break /root/git/dodong471520/zsummer/example/zsummer_server/../../depends/protocol4z/protocol4z.h:620
+break /root/git/dodong471520/zsummer/example/zsummer_server/Client.cpp:83
