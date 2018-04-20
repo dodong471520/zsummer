@@ -1,0 +1,3 @@
+let l:bm_file_version = 1
+let l:bm_sessions = {'default': {'/root/git/dodong471520/zsummer/example/zsummer_client/main.cpp': [{'sign_idx': 9500, 'line_nr': 307, 'content': '			g_pios->RunOnce();'},],}}
+let l:bm_current_session = 'default'
